@@ -1,4 +1,4 @@
 # OpenCV-Cuda-Test
-cmake .
-make
-./DisplayImage a.png
+cmake . <br />
+make <br />
+./DisplayImage a.png <br />
